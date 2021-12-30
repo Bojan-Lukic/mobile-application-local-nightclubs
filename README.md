@@ -199,9 +199,7 @@ Project Link: [https://github.com/Bojan-Lukic/mobile-application-venues-near-me]
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* [Android Authority](https://www.androidauthority.com/android-app-development-1128595/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
