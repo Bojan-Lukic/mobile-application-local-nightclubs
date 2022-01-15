@@ -34,10 +34,10 @@
   <p align="center">
     Building a mobile application for finding local venues such as nightclubs with reviews and recommendations.
     <br />
-    <a href="https://github.com/Bojan-Lukic/mobile-application-venues-near-me/doc"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Bojan-Lukic/mobile-application-venues-near-me/tree/main/doc"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Bojan-Lukic/mobile-application-venues-near-me/src">View Demo</a>
+    <a href="https://github.com/Bojan-Lukic/mobile-application-venues-near-me/tree/main/src">View Demo</a>
     ·
     <a href="https://github.com/Bojan-Lukic/mobile-application-venues-near-me/issues">Report Bug</a>
     ·
